@@ -1,4 +1,4 @@
-package Java_Study;
+package com.javaStudy.array;
 
 import java.util.Arrays;
 
