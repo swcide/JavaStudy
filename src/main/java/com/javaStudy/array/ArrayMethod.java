@@ -6,6 +6,7 @@ import java.util.Collections;
 public class ArrayMethod {
 
     /*
+    ?
     배열의 복사
     자바에서 배열은 한 번 생성하면 그 길이를 변경할 수 없습니다.
     따라서 더 많은 데이터를 저장하기 위해서는 더욱 큰 배열을 만들고, 이전 배열의 데이터를 새로 만든 배열로 복사해야 합니다.
